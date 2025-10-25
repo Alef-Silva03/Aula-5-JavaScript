@@ -4,3 +4,4 @@ function calcular(){
     while(1 <=10){
 }
 }
+adsadad
